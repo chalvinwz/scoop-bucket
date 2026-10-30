@@ -1,16 +1,16 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "description": "Terminal UI for AWS SSM Session Manager",
     "homepage": "https://github.com/chalvinwz/lazyssm",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/chalvinwz/lazyssm/releases/download/v0.4.0/lazyssm_0.4.0_windows_amd64.zip",
-            "hash": "331c6cd229b0d9a0e554d6dee6ffb90c76791b83a855d5a3dfe615c5934c25fb"
+            "url": "https://github.com/chalvinwz/lazyssm/releases/download/v0.5.0/lazyssm_0.5.0_windows_amd64.zip",
+            "hash": "08f198f8f4c4f65db0da12a2bbbeac47ac1becec2297c26f5fe3c117bf845d83"
         },
         "arm64": {
-            "url": "https://github.com/chalvinwz/lazyssm/releases/download/v0.4.0/lazyssm_0.4.0_windows_arm64.zip",
-            "hash": "d44c68591fd1c2dc29b3ef34ee357c77b626b3b509ea9534a3e4456145e70cb7"
+            "url": "https://github.com/chalvinwz/lazyssm/releases/download/v0.5.0/lazyssm_0.5.0_windows_arm64.zip",
+            "hash": "79f2a8656097dd351625c4624c6b723370f7ab0a213d8fbf709157efffd992c4"
         }
     },
     "bin": "lazyssm.exe",
